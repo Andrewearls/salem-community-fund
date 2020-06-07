@@ -10164,3 +10164,23 @@ header.masthead h1 {
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }
+
+#services .image-container {
+  margin: auto;
+  max-width: 160px;
+  max-height: 140px;
+  margin-bottom: 24px;
+  border: 2px solid #DC0909;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+#services .image-container img {
+  width: 100%
+}
+
+.andrew {
+  position: relative;
+  top: -37px;
+}
+
