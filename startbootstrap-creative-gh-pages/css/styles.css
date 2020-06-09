@@ -10184,3 +10184,21 @@ header.masthead h1 {
   top: -37px;
 }
 
+.progress {
+  -webkit-appearance: none;
+   appearance: none;
+   margin: auto;
+   width: 50%;
+}
+
+.progress[value]::-webkit-progress-bar {
+  background-color: #eee;
+  border-radius: 2px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+}
+
+.progress-bar {
+  background-color: #DC0909;
+  width: 38.5%;
+}
+
