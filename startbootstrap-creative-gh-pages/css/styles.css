@@ -10202,3 +10202,14 @@ header.masthead h1 {
   width: 38.5%;
 }
 
+.logo-container {
+  width: 128px;
+  border-radius: 64px;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.logo {
+  width: 100%;
+}
+
