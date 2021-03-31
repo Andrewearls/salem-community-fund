@@ -10184,6 +10184,11 @@ header.masthead h1 {
   top: -37px;
 }
 
+.jessica {
+  position: relative;
+  top: -47px;
+}
+
 .progress {
   -webkit-appearance: none;
    appearance: none;
@@ -10199,7 +10204,7 @@ header.masthead h1 {
 
 .progress-bar {
   background-color: #DC0909;
-  width: 38.5%;
+  width: 78.5%;
 }
 
 .logo-container {
